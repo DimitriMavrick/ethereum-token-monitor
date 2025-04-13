@@ -1,0 +1,11 @@
+{
+  "transactionHash": "0x4901f26ccf540b82a22d2ae6a8b26012097c9ab67865c285df352a1eaf8b9dab",
+  "blockNumber": 22254786,
+  "from": "0xF977814e90dA44bFA03b6295A0616a897441aceC",
+  "fromIsMonitored": true,
+  "to": "0x5a52E96BAcdaBb82fd05763E25335261B270Efcb",
+  "toIsMonitored": true,
+  "amount": "1.0",
+  "timestamp": "2025-04-12T18:51:12.000Z",
+  "detectionMethod": "Block Polling"
+}
